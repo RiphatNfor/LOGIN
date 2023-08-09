@@ -1,0 +1,27 @@
+body{
+  background-color: darkslategray;
+}
+.div1{
+  background-color: aliceblue;
+  height: 100vh;
+  width: 100px;
+  margin: auto;
+}
+.div2{
+  background-color: bisque;
+  height: 300px;
+}
+.paragraph{
+  border: 2px red solid;
+}
+p{
+
+  color: white;
+}
+.div3{
+  background-color: rgb(225, 139, 11);
+  height: 100vh;;
+  width: 100px;
+  margin-right: 1000px;
+  margin-bottom: 500px;
+}
